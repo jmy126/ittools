@@ -6,19 +6,19 @@
             </svg>
         </a>
 
-        <a title="Twitter" href="https://twitter.com/Ice_Hazymoon" target="_blank" rel="noopener noreferrer">
+        <a title="Twitter" href="https://twitter.com/jmy126" target="_blank" rel="noopener noreferrer">
             <svg class="icon" aria-hidden="true">
                 <use xlink:href="#icon-twitter" />
             </svg>
         </a>
         
-        <a title="GitHub" href="https://github.com/Ice-Hazymoon/MikuTools" target="_blank" rel="noopener noreferrer">
+        <a title="GitHub" href="https://github.com/jmy126/ittools" target="_blank" rel="noopener noreferrer">
             <svg class="icon" aria-hidden="true">
                 <use xlink:href="#icon-github" />
             </svg>
         </a>
-        
-        <a title="Telegram" href="https://t.me/mikutools" target="_blank" rel="noopener noreferrer">
+<!--        
+        <a title="Telegram" href="https://t.me/jmy126" target="_blank" rel="noopener noreferrer">
             <svg class="icon" aria-hidden="true">
                 <use xlink:href="#icon-telegram" />
             </svg>
@@ -28,7 +28,7 @@
             <svg class="icon" aria-hidden="true">
                 <use xlink:href="#icon-weibo" />
             </svg>
-        </a>
+        </a> -->
     </div>
 </template>
 
